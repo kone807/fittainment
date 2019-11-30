@@ -1,6 +1,8 @@
 # fittainment
 Repository for PIS major project at IIITD for monsoon 2019 
 
+We aim to work in the field of healthcare and fitness. These days, people are busy in the hustle-bustle of their hectic lives. People work like machines and at times, neglect their health. Our primary target is to introduce fun-filled, competitive, and interactive methods as a viable alternative to entertaining exercise/physical activity sessions.
+
 Fittainment addresses the growing issue of ill health in people of all age groups and occupations, be it students, the working class, home-makers, etc. All of us neglect our health, always stating that - we want to but don't have the time or find it boring.
 
 If that is your reason as well, FITTAINMENT is your solution! Now, exercise while you play! Fittainment is a user-friendly gaming interface designed using Arduino and processing. It involves three kinds of exercises - hand gripper, jumping, and climbing stairs, and there are three apt games associated with each of them, providing mental relaxation along with physical workout, thus providing a wholesome package to the user.
