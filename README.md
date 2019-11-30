@@ -26,3 +26,16 @@ https://www.google.com/search?client=ms-unknown&bih=757&biw=412&tbm=isch&sa=1&q=
 https://www.openprocessing.org/sketch/570191
 
 https://m.youtube.com/watch?v=rfQhaGRhIg8
+
+https://images.app.goo.gl/rp7P3WsbdUJHttsv7
+
+https://images.app.goo.gl/QPpUcjRNnCjxv5aA6
+
+https://images.app.goo.gl/xAFQbCvauSMaxSKx9
+
+https://images.app.goo.gl/QueHqjdM8URzgEjL9
+
+https://images.app.goo.gl/3BQkf6Z1ydKdHBBQ8
+
+https://www.youtube.com/watch?v=ZV0p9PutcRU
+
